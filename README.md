@@ -64,7 +64,7 @@ Place these in the same directory as your source files before running:
 ---
 
 ## Additional Notes
-- `std::string` and all built-in string functions (`strcmp`, `strtok`, etc.) are **not used** in any backend logic due to assignment constraints — they are only used in SFML/GUI code
+- `std::string` and all built-in string functions (`strcmp`, `strtok`, etc.) are **not used** in any backend logic due to project constraints they are only used in SFML/GUI code
 - `std::vector` is likewise **only used** in the GUI implementation as permitted
 - There are **no memory leaks** in the program
-- All sorting is implemented manually — no library sort functions used
+- All sorting is implemented manually no library sort functions used
