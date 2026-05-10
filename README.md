@@ -1,4 +1,4 @@
-# MediCore_HMS
+# MediCore
 
 ## Overview
 MediCore is a fully functional Hospital Management System built with **C++** and a **SFML Graphical Interface**, serving as my Final Term Project for the OOP course. The system supports three roles — **Patient**, **Doctor**, and **Admin** — and manages appointments, bills, prescriptions, medical records, and security. All persistent data is stored and read from `.txt` files.
